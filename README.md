@@ -1,2 +1,1 @@
-# scripts-new
-Collection of block game scripts
+# Waza Scripts
