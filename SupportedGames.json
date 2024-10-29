@@ -21,9 +21,9 @@
   {
     "name": "Frontlines",
     "reqs": ["mousemoverel"], 
-    "ids": {5938036553]
+    "ids": [5938036553]
   },
-  [
+  {
     "name": "Legends Of Speed",
     "load": "LegendsOfSpeed",
     "ids": [5938036553,3276265788,3232996272]
