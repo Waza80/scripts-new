@@ -1,0 +1,30 @@
+[
+  [
+    "name": "Basically FNF",
+    "loadstring": "BasicallyFNF",
+    "ids": [6520999642]
+  ],
+  [
+    "name": "Build A Boat For Treasure",
+    "loadstring": "BuildABoat",
+    "ids": [537413528]
+  ],
+  [
+    "name": "DOORS",
+    "ids": [6839171747]
+  ],
+  [
+    "name": "Destruction Simulator",
+    "loadstring": "DestructionSimulator",
+    "ids": [2248408710]
+  ],
+  [
+    "name": "Frontlines",
+    "ids": [5938036553]
+  ],
+  [
+    "name": "Legends Of Speed",
+    "loadstring": "LegendsOfSpeed",
+    "ids": [5938036553,3276265788,3232996272]
+  ]
+]
