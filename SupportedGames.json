@@ -1,12 +1,12 @@
 [
   [
     "name": "Basically FNF",
-    "loadstring": "BasicallyFNF",
+    "load": "BasicallyFNF",
     "ids": [6520999642]
   ],
   [
     "name": "Build A Boat For Treasure",
-    "loadstring": "BuildABoat",
+    "load": "BuildABoat",
     "ids": [537413528]
   ],
   [
@@ -15,7 +15,7 @@
   ],
   [
     "name": "Destruction Simulator",
-    "loadstring": "DestructionSimulator",
+    "load": "DestructionSimulator",
     "ids": [2248408710]
   ],
   [
@@ -25,7 +25,7 @@
   ],
   [
     "name": "Legends Of Speed",
-    "loadstring": "LegendsOfSpeed",
+    "load": "LegendsOfSpeed",
     "ids": [5938036553,3276265788,3232996272]
   ]
 ]
