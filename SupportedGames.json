@@ -1,31 +1,31 @@
 [
-  [
+  {
     "name": "Basically FNF",
     "load": "BasicallyFNF",
     "ids": [6520999642]
-  ],
-  [
+  },
+  {
     "name": "Build A Boat For Treasure",
     "load": "BuildABoat",
     "ids": [537413528]
-  ],
-  [
+  },
+  {
     "name": "DOORS",
     "ids": [6839171747]
-  ],
-  [
+  },
+  {
     "name": "Destruction Simulator",
     "load": "DestructionSimulator",
     "ids": [2248408710]
-  ],
-  [
+  },
+  {
     "name": "Frontlines",
     "reqs": ["mousemoverel"], 
-    "ids": [5938036553]
-  ],
+    "ids": {5938036553]
+  },
   [
     "name": "Legends Of Speed",
     "load": "LegendsOfSpeed",
     "ids": [5938036553,3276265788,3232996272]
-  ]
+  }
 ]
