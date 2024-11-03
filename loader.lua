@@ -86,7 +86,7 @@ local function ShowStatus(message)
 		task.wait(notificationTime * 1.15)
 
         N['4'].Size = UDim2.new(0, 40, 0, 40)
-		TweenService:Create(N['2'], notificationSettings, {Size = UDim2.new(0, 80 + messageBounds, 0, 40)}):Play()
+		TweenService:Create(N['2'], notificationSettings, {Size = UDim2.new(0, 66 + messageBounds, 0, 40)}):Play()
 		TweenService:Create(N['4'], notificationSettings, {Rotation = -360}):Play()
 		TweenService:Create(N['5'], notificationSettings, {AnchorPoint = Vector2.new(1, 0), Size = UDim2.new(1/3, 0, 1/3, 0)}):Play()
 		TweenService:Create(N['7'], notificationSettings, {AnchorPoint = Vector2.new(0, 1), Size = UDim2.new(1/3, 0, 1/3, 0)}):Play()
