@@ -135,7 +135,7 @@ for _, item in next, supportedGames do
 		-- This is not an issue if your executor has fake functions; the end script will not work anyways, this is just some protection
 		if item.reqs then
 			for _, req in next, item.reqs do
-				if not table.find(env, req) then
+				if env[req] == nil then
 					-- Tell the user that the script cannot run and exit
 					ShowStatus("Orbit is not able to run on your executor.")
 					return
