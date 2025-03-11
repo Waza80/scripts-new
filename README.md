@@ -7,6 +7,8 @@
 - Destruction Simulator
 - Frontlines
 - Legends Of Speed
+- Brookhaven
+- Color.io
 ###### Soon supporting: Pressure, Black Hole Core, Ninja Legends, Funky Friday, BSS
 
 ## Usage
