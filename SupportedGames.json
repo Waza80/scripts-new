@@ -27,5 +27,10 @@
     "name": "Legends Of Speed",
     "load": "LegendsOfSpeed",
     "ids": [3101667897,3276265788,3232996272]
-  }
+  },
+  {
+    "name": "IceHub Brookhaven",
+    "load": "IceHubBrookhaven",
+    "ids": [4924922222]
+  },
 ]
