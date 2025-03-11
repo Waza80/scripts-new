@@ -1,5 +1,10 @@
 [
   {
+    "name": "Color.io",
+    "load": "Colorio",
+    "ids": [75965306756161]
+  },
+  {
     "name": "Basically FNF",
     "load": "BasicallyFNF",
     "ids": [6520999642]
