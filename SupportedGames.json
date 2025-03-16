@@ -37,5 +37,10 @@
     "name": "IceHub Brookhaven",
     "load": "IceHubBrookhaven",
     "ids": [4924922222]
+  },
+  {
+    "name": "Desert Detectors",
+    "load": "DesertDetectors",
+    "ids": [73010525850196]
   }
 ]
