@@ -1,13 +1,16 @@
 # Orbit Scripts
-> Made by [waza80](https://waza80.com)
+> Made by [waza80](https://waza80.com)  
+> Contributed by vicarspirit
 ## Supported Games
 - Basically FNF
 - Build A Boat For Treasure
 - DOORS
+- Muscle Legends [contributed]
+- Desert Detectors
 - Destruction Simulator
 - Frontlines
 - Legends Of Speed
-- Brookhaven
+- Brookhaven [contributed]
 - Color.io
 ###### Soon supporting: Pressure, Black Hole Core, Ninja Legends, Funky Friday, BSS
 
@@ -18,8 +21,8 @@ loadstring(game:HttpGet("https://github.com/Waza80/scripts-new/blob/main/loader.
 ```
 Should you have any questions, issues, or concerns, please join our [Discord server](#contact)!
 ## Experience More
-My key system, if there is one, is short and takes around 20 seconds to get.  
-If you want a **Premium, Ad-Free** experience, buy a cheap lifetime key [here](https://scripts.waza80.com/store)!
+My key system, if there is one, is short and only takes few minutes to complete.  
+If you want a **Premium, Ad-Free** experience, buy a cheap lifetime key [here](https://orbitsc.net/store)!
 
 **Benefits**:
 - Keyless features for all supported games
@@ -29,5 +32,5 @@ If you want a **Premium, Ad-Free** experience, buy a cheap lifetime key [here](h
 - Early access to new features!
 
 ## Contact
-Discord: https://discord.gg/pYuuMCVBUJ  
+Discord: https://discord.gg/orbitsc  
 Email: waza@waza80.com
