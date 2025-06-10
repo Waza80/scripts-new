@@ -47,5 +47,10 @@
     "name": "Desert Detectors",
     "load": "DesertDetectors",
     "ids": [73010525850196]
+  },
+  {
+    "name": "Fortune Fighters",
+    "load": "FortuneFighters",
+    "ids": [16228705671]
   }
 ]
